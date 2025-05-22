@@ -1,6 +1,32 @@
 # flutter_ui_showcase
 
-A new Flutter project.
+ Flutter UI Showcase 🚀
+
+A learning project to practice Flutter by building a gallery of UI components (like login pages, navbars, etc.) with live previews and code snippets.
+
+## Features
+
+- Mobile + Web support
+- Component-based design
+- Easy navigation between UI examples
+- “Get Code” functionality
+
+## Folder Structure
+lib/
+├── components/
+├── pages/
+├── data/
+├── utils/
+├── widgets/
+
+
+---
+
+## Author
+
+Built with ❤️ by Nabin Ghimire
+
+
 
 ## Getting Started
 
