@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 class LoginListPage extends StatelessWidget {
+  const LoginListPage({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(

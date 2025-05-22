@@ -78,6 +78,5 @@ class AppTheme {
       primary: primaryBlue,
       secondary: secondaryColor,
     ),
-    useMaterial3: true,
   );
 }
