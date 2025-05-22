@@ -12,12 +12,18 @@ A learning project to practice Flutter by building a gallery of UI components (l
 - “Get Code” functionality
 
 ## Folder Structure
-lib/
+lib/ 
+
 ├── components/
+
 ├── pages/
+
 ├── data/
+
 ├── utils/
+
 ├── widgets/
+
 
 
 ---
